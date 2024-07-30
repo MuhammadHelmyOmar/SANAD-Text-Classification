@@ -2,7 +2,7 @@
 [SANAD](https://www.kaggle.com/datasets/haithemhermessi/sanad-dataset) is a Single-label Arabic News Articles Dataset for automatic text categorization.\
 NlP pipeline:\
   1- Collecting raw data from files\
-  2- Eploring Data\
+  2- Exploring Data\
   3- Data Preprocessing including:\
     - Dropping empty records\
     - Removing Stopwords\
